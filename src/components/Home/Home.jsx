@@ -10,7 +10,7 @@ const Home = () => {
 
           <p className="home-intro">Hello, I'm</p>
 
-          <h1>Ramu</h1>
+          <h1>c p charan</h1>
 
           <h2>Java Full Stack Developer</h2>
 
@@ -26,7 +26,7 @@ const Home = () => {
             </a>
 
             <a
-              href="tel:+917569178961"
+              href="tel:+919063899033"
               className="btn secondary-btn"
             >
               Contact Me
@@ -42,8 +42,8 @@ const Home = () => {
           <div className="home-photo-wrapper">
 
             <img
-              src="/Profile.jpeg"
-              alt="Ramu"
+              src="/profile.jpeg"
+              alt="Charan"
               className="home-photo"
             />
 

@@ -6,7 +6,7 @@ const Footer = () => {
        <div className="footer-container">
 
         <div className="footer-about">
-      <h2>Ramu</h2>
+      <h2>c p charan</h2>
       <p>
         Java Full Stack Developer Passionate about building modern and user-friendly web applications.
       </p>

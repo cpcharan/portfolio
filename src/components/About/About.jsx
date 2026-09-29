@@ -20,7 +20,7 @@ const About = () => {
           </h3>
 
           <p>
-            Hello! I am Ramu, a passionate Java Full Stack Developer.
+            Hello! I am c p charan, a passionate Java Full Stack Developer.
             I enjoy developing modern, responsive, and user-friendly
             web applications.
           </p>
@@ -39,9 +39,9 @@ const About = () => {
           </p>
 
           <a
-            href="/Ramu%20Resume.pdf"
+            href="/ccharan_resume.pdf"
             className="about-btn"
-            download="Ramu_Resume.pdf"
+            download="ccharan_resume.pdf"
           >
             Download Resume
           </a>

@@ -17,20 +17,19 @@ const Education = () => {
         {/* Education Cards */}
         <div className="education-list">
 
-          {/* MCA */}
+          {/* B.Tech */}
           <div className="education-card">
             <div className="education-year">
-              2024 - 2026
+              2023 - 2026
             </div>
 
             <div className="education-content">
-              <h3>Master of Computer Applications (MCA)</h3>
+              <h3> (B.Tech)</h3>
 
-              <h4>Master of Computer Applications</h4>
+              <h4>Bachelor of Technology.</h4>
 
               <p>
-                Complated MCA with a focus on software developement, Java programming, 
-                Web technologies, databases, and application developement.
+                Completed B.Tech in Computer Science and Engineering with a focus on software development, Java programming, web technologies, databases, and application development.
               </p>
 
               <div className="education-tags">
@@ -40,46 +39,19 @@ const Education = () => {
               </div>
             </div>
           </div>
-
-          {/* BSc */}
+          {/* Diploma */}
           <div className="education-card">
             <div className="education-year">
               2020 - 2023
             </div>
 
             <div className="education-content">
-              <h3>Bachelor of Science (B.Sc)</h3>
+              <h3>Diploma</h3>
 
-              <h4>MECs</h4>
-
-              <p>
-                Completed Bachelor of Science with a strong foundation in
-                mathematics, electronics, computer science, and analytical
-                problem-solving.
-              </p>
-
-              <div className="education-tags">
-                <span>Computer Science</span>
-                <span>Mathematics</span>
-                <span>Electronics</span>
-              </div>
-            </div>
-          </div>
-
-          {/* Intermediate */}
-          <div className="education-card">
-            <div className="education-year">
-              2018 - 2020
-            </div>
-
-            <div className="education-content">
-              <h3>Intermediate</h3>
-
-              <h4>Higher Secondary Education</h4>
+              <h4>State Board of Technical Education and Training.</h4>
 
               <p>
-                Completed higher secondary education and developed a strong
-                interest in mathematics and computer-related subjects.
+                Completed Diploma in Electrical and Electronics Engineering (EEE) with a focus on electrical systems, electronics, circuit design, electrical machines, and engineering fundamentals.
               </p>
             </div>
           </div>
@@ -87,7 +59,7 @@ const Education = () => {
           {/* SSC */}
           <div className="education-card">
             <div className="education-year">
-              2018
+              2020
             </div>
 
             <div className="education-content">

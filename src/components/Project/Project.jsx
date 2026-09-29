@@ -3,11 +3,11 @@ import "./Project.scss";
 const Project = () => {
   const projects = [
     {
-      title: "Flight Ticket Booking",
+      title: "Guess Number Game",
       description:
-        "A responsive flight ticket booking web application where users can search flights, select seats, enter passenger details, make payments, and view booking confirmation.",
-      technologies: ["HTML", "CSS", "JavaScript", "React.js"],
-      github: "https://github.com/gowllaramu18/Flight-Ticket-Booking",
+        "Developed a Guess Number Game using HTML, CSS, and JavaScript where users guess a randomly generated number between 1 and 100. Implemented user input validation, attempt tracking, hints for higher or lower guesses, and a high-score feature using JavaScript.",
+      technologies: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/cpcharan/Guess-Number-game",
       live: "#",
     },
     {
@@ -15,7 +15,7 @@ const Project = () => {
       description:
         "A simple ATM login application developed using HTML, CSS, and JavaScript. Users can log in securely and interact with basic ATM operations.",
       technologies: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/gowllaramu18/ATM-Login-Project",
+      github: "https://github.com/cpcharan/ATM-Login-System",
       live: "#",
     },
   ];
